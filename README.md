@@ -1,2 +1,1 @@
-# laravue
-Aprender Laravel e Vue
+## Definições
