@@ -1,7 +1,9 @@
 <template>
   <v-app>
+    <Header />
+
     <v-main>
-      <HelloWorld />
+      <CardImage />
     </v-main>
 
     <AppFooter />
