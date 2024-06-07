@@ -26,9 +26,11 @@
         </v-badge>
       </v-btn>
 
-      <v-avatar>
-        <v-img cover alt="John" src="https://cdn.vuetifyjs.com/images/john.jpg" />
-      </v-avatar>
+      <v-btn icon>
+        <v-avatar>
+          <v-img cover alt="John" src="https://cdn.vuetifyjs.com/images/john.jpg" />
+        </v-avatar>
+      </v-btn>
     </template>
 
   </v-app-bar>
