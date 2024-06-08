@@ -15,5 +15,15 @@ import { createVuetify } from 'vuetify'
 export default createVuetify({
   theme: {
     defaultTheme: 'dark',
+    VBtn: {
+      variant: "tonal",
+      color: "tiago"
+    },
+    VTexField: {
+      variant: "outlined"
+    },
+    VSelect: {
+      variant: "outlined"
+    },
   },
 })
